@@ -1,12 +1,14 @@
 {
-  "vendor.js": "/pwa-demo/static/js/vendor.1.0.0.846e340f268547222f7d.js",
-  "vendor.js.map": "/pwa-demo/static/js/vendor.1.0.0.846e340f268547222f7d.js.map",
-  "app.js": "/pwa-demo/static/js/app.1.0.0.85ad530a68d13e1f9d98.js",
-  "app.css": "/pwa-demo/static/css/app.1.0.0.3d3bffb636aaa4980638031824a5087b.css",
-  "app.js.map": "/pwa-demo/static/js/app.1.0.0.85ad530a68d13e1f9d98.js.map",
+  "vendor.js": "/pwa-demo/static/js/vendor.1.0.0.bfa4f3d3f29b1ee2f53e.js",
+  "vendor.js.map": "/pwa-demo/static/js/vendor.1.0.0.bfa4f3d3f29b1ee2f53e.js.map",
+  "app.js": "/pwa-demo/static/js/app.1.0.0.1261c0fdb1a07c64df1a.js",
+  "app.css": "/pwa-demo/static/css/app.1.0.0.1114f9637169215669e03aee5f83c313.css",
+  "app.js.map": "/pwa-demo/static/js/app.1.0.0.1261c0fdb1a07c64df1a.js.map",
   "manifest.js": "/pwa-demo/static/js/manifest.1.0.0.08c955c6271b2de14558.js",
   "manifest.js.map": "/pwa-demo/static/js/manifest.1.0.0.08c955c6271b2de14558.js.map",
-  "static/css/app.1.0.0.3d3bffb636aaa4980638031824a5087b.css.map": "/pwa-demo/static/css/app.1.0.0.3d3bffb636aaa4980638031824a5087b.css.map",
+  "static/css/app.1.0.0.1114f9637169215669e03aee5f83c313.css.map": "/pwa-demo/static/css/app.1.0.0.1114f9637169215669e03aee5f83c313.css.map",
+  "static/fonts/iconfont.eot?t=1467120074": "/pwa-demo/static/fonts/iconfont.cc5250e.eot",
+  "static/fonts/iconfont.ttf?t=1467120074": "/pwa-demo/static/fonts/iconfont.7074246.ttf",
   "favicon.ico": "/pwa-demo/favicon.ico",
   "index.html": "/pwa-demo/index.html"
 }
