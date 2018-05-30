@@ -1,0 +1,12 @@
+{
+  "vendor.js": "/static/js/vendor.1.0.0.846e340f268547222f7d.js",
+  "vendor.js.map": "/static/js/vendor.1.0.0.846e340f268547222f7d.js.map",
+  "app.js": "/static/js/app.1.0.0.ddf8b125d22f244bd797.js",
+  "app.css": "/static/css/app.1.0.0.3d3bffb636aaa4980638031824a5087b.css",
+  "app.js.map": "/static/js/app.1.0.0.ddf8b125d22f244bd797.js.map",
+  "manifest.js": "/static/js/manifest.1.0.0.42da1fed3851dfcf2628.js",
+  "manifest.js.map": "/static/js/manifest.1.0.0.42da1fed3851dfcf2628.js.map",
+  "static/css/app.1.0.0.3d3bffb636aaa4980638031824a5087b.css.map": "/static/css/app.1.0.0.3d3bffb636aaa4980638031824a5087b.css.map",
+  "favicon.ico": "/favicon.ico",
+  "index.html": "/index.html"
+}
